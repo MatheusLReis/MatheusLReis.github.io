@@ -32,13 +32,14 @@
     align-content: center;
     background-color: #ececec;
     padding-top: 20px;
-    margin: -20px -20px;
+    margin: -20px 0 -20px 0;
 }
 
-.equipe img {
+
+/*.equipe img {
     width: 300px;
     height: 300px;
-}
+}*/
 
 .parceiro {
     display: flex;
@@ -79,8 +80,8 @@
         height: 60vh;
         justify-content: center;
     }
-    .equipe img {
+    /*.equipe img {
         width: 100%;
         height: 100%;
-    }
+    }*/
 }
